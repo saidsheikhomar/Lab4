@@ -11,7 +11,9 @@ public class Hello {
 
 	public void methodA(void ) { }
 
-	public void methodB(void) { }
+	public void methodB(void) { 
+		int x = 99;
+	}
 
 	public void methodC(void) { }
 }
