@@ -15,5 +15,7 @@ public class Hello {
 		int x = 99;
 	}
 
-	public void methodC(void) { }
+	public void methodC(void) {
+		int y = 500;
+	}
 }
