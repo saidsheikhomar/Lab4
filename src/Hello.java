@@ -9,7 +9,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(void ) { }
+	public void methodA(void ) { 
+		int i = 0;
+	}
 
 	public void methodB(void) { }
 
